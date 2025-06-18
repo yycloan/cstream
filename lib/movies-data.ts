@@ -2009,8 +2009,8 @@ export const movies: Movie[] = [
 {
     id: "93",
     title: "Kings of Joburg Season 2 (2025)",
-    poster: "https://netnaija.xyz/wp-content/uploads/2025/01/Kings-of-Joburg-Season-2-Download-NetNaija.xyz_.webp",
-    backdrop: "https://netnaija.xyz/wp-content/uploads/2025/01/Kings-of-Joburg-Season-2-Download-NetNaija.xyz_.webp",
+    poster: "public/er54.png",
+    backdrop: "public/er54.png",
     genre: ["Crime", "Drama", "Thriller"],
     year: 2025,
     rating: 8.1,
