@@ -1937,7 +1937,6 @@ export const movies: Movie[] = [
     isTrending: true,
     isFeatured: true,
   },
-  {
     {
   id: "93",
   title: "Final Destination Bloodlines (2025)",
