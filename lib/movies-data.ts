@@ -1580,7 +1580,7 @@ export const movies: Movie[] = [
     country: "United States",
     language: "English",
     downloadUrl: "https://netnaijafiles.xyz/917d095ac57eba95/STRAW_(2025)_(NetNaija.xyz).mkv",
-    videoUrl: "https://vide0.net/e/u5hg0ymor6to",
+    videoUrl: "https://strtape.tech/e/4wkmmryPpPHKKZR/",
     isNew: true,
   },
   {
@@ -1957,18 +1957,18 @@ export const movies: Movie[] = [
     multipleDownloads: [
       {
         label: "Episode 1 - Watch Online",
-        url: "https://vide0.net/e/ve9fqixaga7i",
+        url: "https://strtape.tech/e/J31jqXzd3zHj8da",
       },
       {
         label: "Episode 2 - Watch Online",
-        url: "https://vide0.net/e/stjuhml0qq0y",
+        url: "https://strtape.tech/e/J31jqXzd3zHj8da",
       },
       {
         label: "Episode 3 - Watch Online",
-        url: "https://vide0.net/e/y022zdo50ces",
+        url: "https://strtape.tech/e/J31jqXzd3zHj8da",
       },
     ],
-    videoUrl: "https://vide0.net/e/ve9fqixaga7i",
+    videoUrl: "https://strtape.tech/e/J31jqXzd3zHj8da",
     isNew: true,
     isTrending: true,
     isFeatured: true,
