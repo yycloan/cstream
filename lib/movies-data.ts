@@ -1940,8 +1940,8 @@ export const movies: Movie[] = [
     {
   id: "93",
   title: "Final Destination Bloodlines (2025)",
-  poster: "public/r4r.png", // Replace with actual upload URL
-  backdrop: "public/r4r.png",
+  poster: "https://www.cstream.website/r4r.png", // Replace with actual upload URL
+  backdrop: "https://www.cstream.website/r4r.png",
   genre: ["Horror", "Thriller"],
   year: 2025,
   rating: 7.4,
@@ -2009,8 +2009,8 @@ export const movies: Movie[] = [
 {
     id: "93",
     title: "Kings of Joburg Season 2 (2025)",
-    poster: "public/er54.png",
-    backdrop: "public/er54.png",
+    poster: "https://www.cstream.website/er54.png",
+    backdrop: https://www.cstream.website/er54.png",
     genre: ["Crime", "Drama", "Thriller"],
     year: 2025,
     rating: 8.1,
