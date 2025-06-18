@@ -1940,8 +1940,8 @@ export const movies: Movie[] = [
     {
   id: "93",
   title: "Final Destination Bloodlines (2025)",
-  poster: "https://your-hosted-link.com/uploads/r4r.png", // Replace with actual upload URL
-  backdrop: "https://your-hosted-link.com/uploads/r4r.png",
+  poster: "public/r4r.png", // Replace with actual upload URL
+  backdrop: "public/r4r.png",
   genre: ["Horror", "Thriller"],
   year: 2025,
   rating: 7.4,
