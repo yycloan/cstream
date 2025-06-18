@@ -1,5 +1,7 @@
 "use client"
 
+"use client"
+
 import { useState } from "react"
 import { Play, Download, ExternalLink } from "lucide-react"
 import { Button } from "@/components/ui/button"
@@ -31,14 +33,14 @@ export default function MoviePlayer({ movie }: MoviePlayerProps) {
   }
 
   const isVideoEmbed = (url: string) => {
-    return url?.includes("vide0.net/e/") || url?.includes("iframe")
+    return url?.includes("strtape.tech/e/") || url?.includes("iframe") || url?.includes("vide0.net/e/")
   }
 
   const getEmbedUrl = (url: string) => {
-    if (url?.includes("vide0.net/e/")) {
+    if (url.includes("strtape.tech/e/") || url.includes("vide0.net/e/")) {
       return url
     }
-    return url
+    return `https://strtape.tech/e/${url}`
   }
 
   return (
