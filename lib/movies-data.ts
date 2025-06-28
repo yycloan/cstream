@@ -2062,16 +2062,8 @@ export const movies: Movie[] = [
   language: "Korean / English",
   multipleDownloads: [
     {
-      label: "Season 3 Episode 1 - Watch",
-      url: "https://strtape.tech/e/p4xXyxXj7Rfr31y/",
-    },
-    {
-      label: "Season 3 Episode 1 - Download",
+      label: "Season 3 Episode 1",
       url: "https://strtape.tech/v/p4xXyxXj7Rfr31y/Squid.Game.S03E01.Dual.540p.x265.AAC.%5B9jaRocks.Com%5D_%282%29.mkv.mp4",
-    },
-    {
-      label: "Season 3 Episode 2 - Watch",
-      url: "https://strtape.tech/e/w60QaqzRjwSJqYy/",
     },
     {
       label: "Season 3 Episode 2 - Download",
