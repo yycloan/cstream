@@ -2044,7 +2044,7 @@ export const movies: Movie[] = [
   },
   {
   id: "94",
-  title: "Squid Game (Season 3 E1)",
+  title: "Squid Game Season3 (Episode1)",
   poster: "https://9jarocks.net/wp-content/uploads/2025/06/Squid-Game_Poster.jpg",
   backdrop: "https://9jarocks.net/wp-content/uploads/2025/06/Squid-Game_Poster.jpg",
   genre: ["Drama", "Thriller", "Survival", "Mystery"],
@@ -2062,11 +2062,7 @@ export const movies: Movie[] = [
   language: "Korean / English",
   multipleDownloads: [
     {
-      label: "Season 3 Episode 1",
-      url: "https://strtape.tech/v/p4xXyxXj7Rfr31y/Squid.Game.S03E01.Dual.540p.x265.AAC.%5B9jaRocks.Com%5D_%282%29.mkv.mp4",
-    },
-    {
-      label: "Season 3 Episode 2 - Download",
+      label: "WATCH Season3 Episode2",
       url: "https://strtape.tech/v/w60QaqzRjwSJqYy/Squid.Game.S03E02.Dual.540p.x265.AAC.%5B9jaRocks.Com%5D_%282%29.mkv.mp4",
     },
   ],
@@ -2078,7 +2074,7 @@ export const movies: Movie[] = [
 }
  {
   id: "95",
-  title: "Squid Game (Season 3 E4)",
+  title: "Squid Game Season3 (Episode 4)",
   poster: "https://9jarocks.net/wp-content/uploads/2025/06/Squid-Game_Poster.jpg",
   backdrop: "https://9jarocks.net/wp-content/uploads/2025/06/Squid-Game_Poster.jpg",
   genre: ["Drama", "Thriller", "Survival", "Mystery"],
@@ -2096,12 +2092,8 @@ export const movies: Movie[] = [
   language: "Korean / English",
   multipleDownloads: [
     {
-      label: "Season 3 Episode 1",
+      label: "Watch Season3 Episode5",
       url: "https://strtape.tech/v/p4xXyxXj7Rfr31y/Squid.Game.S03E01.Dual.540p.x265.AAC.%5B9jaRocks.Com%5D_%282%29.mkv.mp4",
-    },
-    {
-      label: "Season 3 Episode 2 - Download",
-      url: "https://strtape.tech/v/w60QaqzRjwSJqYy/Squid.Game.S03E02.Dual.540p.x265.AAC.%5B9jaRocks.Com%5D_%282%29.mkv.mp4",
     },
   ],
   videoUrl: "https://strtape.tech/e/6e94m1mmGKC9aGO",
@@ -2110,6 +2102,126 @@ export const movies: Movie[] = [
   isTrending: true,
   isFeatured: true,
 }  
+{
+  id: "95",
+  title: "Squid Game Season3 (Episode2)",
+  poster: "https://9jarocks.net/wp-content/uploads/2025/06/Squid-Game_Poster.jpg",
+  backdrop: "https://9jarocks.net/wp-content/uploads/2025/06/Squid-Game_Poster.jpg",
+  genre: ["Drama", "Thriller", "Survival", "Mystery"],
+  year: 2025,
+  rating: 8.6,
+  views: 210000,
+  quality: "HD",
+  slug: "squid-game-season-3-2025",
+  duration: "2 Episodes Available",
+  description:
+    "Hundreds of cash-strapped players accept a strange invitation to compete in children’s games. A tempting prize awaits, but with deadly high stakes. Season 3 raises the danger and suspense to terrifying new levels.",
+  cast: ["Lee Jung-jae", "Wi Ha-joon", "HoYeon Jung"],
+  director: "Hwang Dong-hyuk",
+  country: "South Korea",
+  language: "Korean / English",
+  multipleDownloads: [
+    {
+      label: "Watch Season3 Episode3",
+      url: "https://strtape.tech/v/p4xXyxXj7Rfr31y/Squid.Game.S03E01.Dual.540p.x265.AAC.%5B9jaRocks.Com%5D_%282%29.mkv.mp4",
+    },
+  ],
+  videoUrl: "https://strtape.tech/e/w60QaqzRjwSJqYy",
+  downloadUrl: "https://strtape.tech/v/w60QaqzRjwSJqYy/Squid.Game.S03E02.Dual.540p.x265.AAC.%5B9jaRocks.Com%5D_%282%29.mkv.mp4",
+  isNew: true,
+  isTrending: true,
+  isFeatured: true,
+}  
+{
+  id: "95",
+  title: "Squid Game Season3 (Episode3)",
+  poster: "https://9jarocks.net/wp-content/uploads/2025/06/Squid-Game_Poster.jpg",
+  backdrop: "https://9jarocks.net/wp-content/uploads/2025/06/Squid-Game_Poster.jpg",
+  genre: ["Drama", "Thriller", "Survival", "Mystery"],
+  year: 2025,
+  rating: 8.6,
+  views: 210000,
+  quality: "HD",
+  slug: "squid-game-season-3-2025",
+  duration: "2 Episodes Available",
+  description:
+    "Hundreds of cash-strapped players accept a strange invitation to compete in children’s games. A tempting prize awaits, but with deadly high stakes. Season 3 raises the danger and suspense to terrifying new levels.",
+  cast: ["Lee Jung-jae", "Wi Ha-joon", "HoYeon Jung"],
+  director: "Hwang Dong-hyuk",
+  country: "South Korea",
+  language: "Korean / English",
+  multipleDownloads: [
+    {
+      label: "Watch Season3 Episode4",
+      url: "https://strtape.tech/v/p4xXyxXj7Rfr31y/Squid.Game.S03E01.Dual.540p.x265.AAC.%5B9jaRocks.Com%5D_%282%29.mkv.mp4",
+    },
+  ],
+  videoUrl: "https://strtape.tech/e/4qw0eBwzlXIK3P2",
+  downloadUrl: "https://strtape.tech/v/4qw0eBwzlXIK3P2/Squid.Game.S03E03.Dual.540p.x265.AAC.%5B9jaRocks.Com%5D_%282%29.mkv.mp4",
+  isNew: true,
+  isTrending: true,
+  isFeatured: true,
+} 
+{
+  id: "95",
+  title: "Squid Game Season3 (Episode5)",
+  poster: "https://9jarocks.net/wp-content/uploads/2025/06/Squid-Game_Poster.jpg",
+  backdrop: "https://9jarocks.net/wp-content/uploads/2025/06/Squid-Game_Poster.jpg",
+  genre: ["Drama", "Thriller", "Survival", "Mystery"],
+  year: 2025,
+  rating: 8.6,
+  views: 210000,
+  quality: "HD",
+  slug: "squid-game-season-3-2025",
+  duration: "2 Episodes Available",
+  description:
+    "Hundreds of cash-strapped players accept a strange invitation to compete in children’s games. A tempting prize awaits, but with deadly high stakes. Season 3 raises the danger and suspense to terrifying new levels.",
+  cast: ["Lee Jung-jae", "Wi Ha-joon", "HoYeon Jung"],
+  director: "Hwang Dong-hyuk",
+  country: "South Korea",
+  language: "Korean / English",
+  multipleDownloads: [
+    {
+      label: "Watch Season3 Episode6",
+      url: "https://strtape.tech/v/p4xXyxXj7Rfr31y/Squid.Game.S03E01.Dual.540p.x265.AAC.%5B9jaRocks.Com%5D_%282%29.mkv.mp4",
+    },
+  ],
+  videoUrl: "https://strtape.tech/e/dQ6LrMpwR6uGYO",
+  downloadUrl: "https://strtape.tech/v/dQ6LrMpwR6uGYO/Squid.Game.S03E05.Dual.540p.x265.AAC.%5B9jaRocks.Com%5D_%282%29.mkv.mp4",
+  isNew: true,
+  isTrending: true,
+  isFeatured: true,
+} 
+{
+  id: "95",
+  title: "Squid Game Season3 (Episode6)",
+  poster: "https://9jarocks.net/wp-content/uploads/2025/06/Squid-Game_Poster.jpg",
+  backdrop: "https://9jarocks.net/wp-content/uploads/2025/06/Squid-Game_Poster.jpg",
+  genre: ["Drama", "Thriller", "Survival", "Mystery"],
+  year: 2025,
+  rating: 8.6,
+  views: 210000,
+  quality: "HD",
+  slug: "squid-game-season-3-2025",
+  duration: "2 Episodes Available",
+  description:
+    "Hundreds of cash-strapped players accept a strange invitation to compete in children’s games. A tempting prize awaits, but with deadly high stakes. Season 3 raises the danger and suspense to terrifying new levels.",
+  cast: ["Lee Jung-jae", "Wi Ha-joon", "HoYeon Jung"],
+  director: "Hwang Dong-hyuk",
+  country: "South Korea",
+  language: "Korean / English",
+  multipleDownloads: [
+    {
+      label: "Watch Season3 Episode1",
+      url: "https://strtape.tech/v/p4xXyxXj7Rfr31y/Squid.Game.S03E01.Dual.540p.x265.AAC.%5B9jaRocks.Com%5D_%282%29.mkv.mp4",
+    },
+  ],
+  videoUrl: "https://strtape.tech/e/dkMLzxO0a7HkpXl",
+  downloadUrl: "https://strtape.tech/v/dkMLzxO0a7HkpXl/Squid.Game.S03E06.Dual.540p.x265.AAC.%5B9jaRocks.Com%5D_%282%29.mkv.mp4",
+  isNew: true,
+  isTrending: true,
+  isFeatured: true,
+} 
 ]
 
 // Get recently added movies (same as new movies for now, but could be based on date added)
