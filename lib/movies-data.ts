@@ -2044,7 +2044,7 @@ export const movies: Movie[] = [
   },
   {
   id: "94",
-  title: "Squid Game (Season 3)",
+  title: "Squid Game (Season 3 E1)",
   poster: "https://9jarocks.net/wp-content/uploads/2025/06/Squid-Game_Poster.jpg",
   backdrop: "https://9jarocks.net/wp-content/uploads/2025/06/Squid-Game_Poster.jpg",
   genre: ["Drama", "Thriller", "Survival", "Mystery"],
@@ -2070,14 +2070,14 @@ export const movies: Movie[] = [
       url: "https://strtape.tech/v/w60QaqzRjwSJqYy/Squid.Game.S03E02.Dual.540p.x265.AAC.%5B9jaRocks.Com%5D_%282%29.mkv.mp4",
     },
   ],
-  videoUrl: "https://strtape.tech/e/p4xXyxXj7Rfr31y/",
+  videoUrl: "https://strtape.tech/e/p4xXyxXj7Rfr31y",
   downloadUrl: "https://strtape.tech/v/p4xXyxXj7Rfr31y/Squid.Game.S03E01.Dual.540p.x265.AAC.%5B9jaRocks.Com%5D_%282%29.mkv.mp4",
   isNew: true,
   isTrending: true,
   isFeatured: true,
 }
  {
-  id: "94",
+  id: "95",
   title: "Squid Game (Season 3 E4)",
   poster: "https://9jarocks.net/wp-content/uploads/2025/06/Squid-Game_Poster.jpg",
   backdrop: "https://9jarocks.net/wp-content/uploads/2025/06/Squid-Game_Poster.jpg",
