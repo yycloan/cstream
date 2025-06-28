@@ -2071,7 +2071,7 @@ export const movies: Movie[] = [
   isNew: true,
   isTrending: true,
   isFeatured: true,
-}
+},
  {
   id: "95",
   title: "Squid Game Season3 (Episode 4)",
@@ -2101,7 +2101,7 @@ export const movies: Movie[] = [
   isNew: true,
   isTrending: true,
   isFeatured: true,
-}  
+},  
 {
   id: "95",
   title: "Squid Game Season3 (Episode2)",
@@ -2131,7 +2131,7 @@ export const movies: Movie[] = [
   isNew: true,
   isTrending: true,
   isFeatured: true,
-}  
+},  
 {
   id: "95",
   title: "Squid Game Season3 (Episode3)",
@@ -2161,7 +2161,7 @@ export const movies: Movie[] = [
   isNew: true,
   isTrending: true,
   isFeatured: true,
-} 
+},
 {
   id: "95",
   title: "Squid Game Season3 (Episode5)",
@@ -2191,7 +2191,7 @@ export const movies: Movie[] = [
   isNew: true,
   isTrending: true,
   isFeatured: true,
-} 
+}, 
 {
   id: "95",
   title: "Squid Game Season3 (Episode6)",
